@@ -10,6 +10,7 @@
 - 📚 **Major:** Computer Software Engineering.
 
 - 👨‍💻 **Learning:** Data Structures & Algorithms.
+- 👨‍💻 **Learning:** Data Structures & Algorithms.
 
 -📩**How to reach me:** swapnaroop2001@gmail.com.
 
