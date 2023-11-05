@@ -5,7 +5,7 @@
 
 - 👨‍💻 **Graduate Student.**
 
-- 🏫 University: **Stevens Institute of Technology.**
+- 🏫 **University:** Stevens Institute of Technology.
 
 - 📚 Major: **Computer Software Engineering.**
 
