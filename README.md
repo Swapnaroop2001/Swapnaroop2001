@@ -3,13 +3,13 @@
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnaroop2001&label=Profile%20views&color=0e75b6&style=flat" alt="swapnaroop2001" /> </p>
 
-- 👨‍💻 **Graduate Student**
+- 👨‍💻 **Graduate Student.**
 
-- 🏫 University: **Stevens Institute of Technology**
+- 🏫 University: **Stevens Institute of Technology.**
 
-- 📚 Major: **Computer Software Engineering**
+- 📚 Major: **Computer Software Engineering.**
 
-- 👨‍💻 I’m currently learning: **Data Structures & Algorithms**
+- 👨‍💻 I’m currently learning: **Data Structures & Algorithms.**
 
 - 📫 How to reach me: **swapnaroop2001@gmail.com**
 
