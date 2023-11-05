@@ -10,9 +10,8 @@
 - 📚 **Major:** Computer Software Engineering.
 
 - 👨‍💻 **Learning:** Data Structures & Algorithms.
-- 👨‍💻 **Learning:** swapnaroop2001@gmail.com.
+- 📩**How to reach me:** swapnaroop2001@gmail.com.
 
--📩**How to reach me:** swapnaroop2001@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
