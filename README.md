@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnaroop2001&show_icons=true&locale=en" alt="swapnaroop2001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnaroop2001&" alt="swapnaroop2001" /></p>
-<p align="center">
+<p><img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnaroop2001&" alt="swapnaroop2001" /></p>
+<p align="justify">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
