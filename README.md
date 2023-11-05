@@ -1,3 +1,6 @@
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Swapnaroop Salgare" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
+![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)
 <h1 align="center">Hello 👋, I'm Swapnaroop Salgare.</h1>
 <h3 align="center">A passionate Software Development Enthusiast.</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
