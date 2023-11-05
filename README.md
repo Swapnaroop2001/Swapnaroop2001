@@ -7,11 +7,11 @@
 
 - 🏫 **University:** Stevens Institute of Technology.
 
-- 📚 Major: **Computer Software Engineering.**
+- 📚 **Major:** Computer Software Engineering.
 
-- 👨‍💻 I’m currently learning: **Data Structures & Algorithms.**
+- 👨‍💻 **Learning:** Data Structures & Algorithms.
 
-- 📫 How to reach me: **swapnaroop2001@gmail.com**
+-📩**How to reach me:** swapnaroop2001@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
