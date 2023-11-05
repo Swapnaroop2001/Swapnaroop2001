@@ -1,7 +1,7 @@
 # Swapnaroop2001
 <h1 align="center">Hi 👋, I'm Swapnaroop Salgare</h1>
 <h3 align="center">A passionate Software developer Enthusiast.</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Swapnaroop2001/Swapnaroop2001/assets/75776020/0e16ac93-7917-48c7-ad93-d6366f0c0ff8.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
