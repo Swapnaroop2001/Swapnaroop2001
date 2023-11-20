@@ -8,7 +8,7 @@
 - 🎓 **Degree:** Master of Science (M.S).
 - 📚 **Major:** Computer Software Engineering.
 - 👨‍💻 **Learning:** Data Structures & Algorithms.
-- ✉️ **How to reach me:** swapnaroop2001@gmail.com
+- ✉️ **Contact Mail:** swapnaroop2001@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
