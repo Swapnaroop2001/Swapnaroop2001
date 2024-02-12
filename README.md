@@ -6,7 +6,7 @@
 - 👨🏻‍🎓**Graduate Student.**
 - 🏫 **University:** Stevens Institute of Technology.
 - 🎓 **Degree:** Master of Science (M.S).
-- 📚 **Major:** Computer Software Engineering.
+- 📚 **Major:** Computer Science.
 - 👨‍💻 **Learning:** Data Structures & Algorithms.
 - ✉️ **Mail:** swapnaroop2001@gmail.com
 
